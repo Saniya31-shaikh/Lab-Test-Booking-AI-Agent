@@ -1,0 +1,16 @@
+
+# Private API credentials
+.streamlit/secrets.toml
+secrets.toml
+.env
+
+# Local database
+*.db
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+
+# Notebook temporary files
+.ipynb_checkpoints/
